@@ -4,3 +4,5 @@ User Text Editor is a simple GUI based Text editor in Java. It provides followin
 * User Authentication system
 * Every user can create his/her own files and can access only those files
 * Can choose from existing files or create new ones.
+
+Ignore the user1 folder.
